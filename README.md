@@ -37,5 +37,5 @@ If you're getting started and need assistance or face any bugs, join our active 
 And many more, including enhanced security and optimized video performance!
 
 <a name="Live Demo">  </a>
-ive link is also available .
+Live link is also available .
 
